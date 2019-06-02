@@ -1,0 +1,26 @@
+<annotation>
+	<folder>WHEAT</folder>
+	<filename>IMG_52.JPG</filename>
+	<path>F:/ML_Project/Crop_Classification/Dataset/WHEAT/IMG_52.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>391</width>
+		<height>642</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Wheat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>364</ymin>
+			<xmax>372</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>
