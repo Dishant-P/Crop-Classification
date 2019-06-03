@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PADDY</folder>
+	<filename>IMG_108.JPG</filename>
+	<path>F:/ML_Project/Crop_Classification/Dataset/PADDY/IMG_108.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>398</width>
+		<height>411</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Paddy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>182</ymin>
+			<xmax>358</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
